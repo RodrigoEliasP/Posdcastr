@@ -13,7 +13,7 @@ Projetinho em NextJs com ReactJS e typescript feito na next level week 5
     <li>Rode o front-end em modo de produção com npm run start</li>
 </ul>
 
-# Tecnoligias Usadas
+# Tecnologias Usadas
 
 Tecnologia | Documentação
 -----------|-------------
