@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root {
+    --white: rgb(255, 255, 255);
+  
+    --gray-50: rgb(247, 248, 250);
+    --gray-100: rgb(230, 232, 235);
+    --gray-200: rgb(175, 178, 177);
+    --gray-500: rgb(128, 128, 128);
+    --gray-800: rgb(73, 77, 75);
+  
+    --green-500: rgb(4, 211, 97);
+    
+    --purple-300: rgb(159, 117, 255);
+    --purple-400: rgb(145, 100, 250); 
+    --purple-500: rgb(130, 87, 229);
+    --purple-800: rgb(111, 72, 201);
+  }
+@media(max-width: 1080px){
+    html{
+        font-size: 93.75%;
+    }
+}
+@media(max-width: 720px){
+    html{
+        font-size: 87.5%;
+    }
+}
+body{
+    background-color: var(--gray-50);
+}
+body, input, textarea, button{
+    font: 580 1rem Inter, sans-serif;
+    color: var(--gray-500)
+}
+h1,h2,h3,h4,h5,h6{
+    font-weight: 680;
+    font-family: Lexend, sans-serif;
+    color: var(--gray-500);
+}
+h1{
+    font-size: 2rem;
+}
+h2{
+    font-size: 1.5rem;
+}
+button{
+    cursor: pointer;
+}
