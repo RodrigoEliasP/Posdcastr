@@ -27,13 +27,13 @@ SASS | <a href="https://sass-lang.com/documentation">https://sass-lang.com/docum
 
 <h2>Home</h2>
 
-<img src="./gitub-images/Home.png"/>
+<img  height="200" src="./github-images/Home.png"/>
 
 <p>Página principal da aplicação que lista todos os episódios do podcastr</p>
 
 <h2>Episode<h2>
 
-<img src="./gitub-images/Episode.png"/>
+<img height="200" src="./github-images/Episode.png"/>
 
 <p>
     Página de detalhes de um episódio clicado na página home
