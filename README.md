@@ -31,7 +31,7 @@ SASS | <a href="https://sass-lang.com/documentation">https://sass-lang.com/docum
 
 <p>Página principal da aplicação que lista todos os episódios do podcastr</p>
 
-<h2>Episode<h2>
+<h2>Episode</h2>
 
 <img height="200" src="./github-images/Episode.png"/>
 
